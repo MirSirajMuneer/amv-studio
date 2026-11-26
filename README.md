@@ -58,6 +58,8 @@ python main.py --cli --help
 * "ffmpeg not found" → `pip install imageio-ffmpeg`.
 * Make sure you have the rights to the footage and music you use.
 
+A Video Created With amv-studio :  https://www.youtube.com/watch?v=9F4JTgASFvw
+
 ## Tests
 
 ```bash
