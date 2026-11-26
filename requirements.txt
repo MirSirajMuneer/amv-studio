@@ -1,0 +1,11 @@
+# AMV Studio 1.1 - install everything with:  pip install -r requirements.txt
+numpy>=1.24
+scipy>=1.10
+opencv-python-headless>=4.8
+Pillow>=10.0
+customtkinter>=5.2
+# Bundles an ffmpeg binary, so you do NOT need to install ffmpeg yourself.
+# (A system ffmpeg on PATH is used first if you have one.)
+imageio-ffmpeg>=0.4.9
+# Optional: drag & drop files onto the window (the app works without it)
+tkinterdnd2>=0.3.0
